@@ -1,7 +1,7 @@
 // import ListaDeContenidos from "./componentes/ListaDeContenidos/ListaDeContenidos";
 // import Galeria from "./componentes/Galeria/Galeria";
-import CambiarImagen from "./componentes/CambiarImagen/CambiarImagen";
-import AnimalImages from "./componentes/CambiarImagen/CambiarImagen";
+//import CambiarImagen from "./componentes/CambiarImagen/CambiarImagen";
+import Pokemones from "./componentes/useEffect/Pokemones";
 //import EventoOcultarMostrar from "./componentes/Eventos/EventoOcultarMostrar";
 //import SuperficieRectangulo from "./componentes/SuperficieRectangulo/SuperficieRectangulo";
 
@@ -14,7 +14,8 @@ function App() {
       <Galeria/> */
       //<EventoOcultarMostrar/>
      // <SuperficieRectangulo/>
-      <CambiarImagen/>
+      //<CambiarImagen/>
+      <Pokemones/>
       }
 
     </div>
